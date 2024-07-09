@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I specialize in writing sleek code in <strong>![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)</strong> and <strong>Python</strong> 🐍, building the future of decentralized apps one commit at a time! 💼
+  I specialize in writing sleek code in <strong>Go</strong> and <strong>Python</strong> 🐍, building the future of decentralized apps one commit at a time! 💼
 </p>
 
 <p align="center">
@@ -26,7 +26,14 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:resmkacrizellee5@gmail.com">resmkacrizellee5@gmail.com</a>
+  <ul>
+    How to reach me:
+    <li>📫 Email: <a href="mailto:resmkacrizellee5@gmail.com">resmkacrizellee5@gmail.com</a></li>
+    <li>🐦 Twitter: <a href="https://x.com/JoHeatherYOLO">@JoHeatherYOLO</a></li>
+    <li>☎️ Discord: <a href="https://discord.com/users/961401897015730187">heather_yolo</a></li>
+    <li>💼 Medium: <a href="https://medium.com/@HeatherYolo">@HeatherYolo</a></li>
+    <li>🔐 KeyBase: <a href="https://keybase.io/heather_yolo">heather_yolo</a></li>
+  </ul>
 </p>
 
 <p align="center">
