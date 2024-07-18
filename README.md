@@ -15,7 +15,7 @@
     <img src="https://pbs.twimg.com/profile_images/1604751287618113536/ayyW6i94_200x200.jpg">
   </a>
   <a href="https://testnet.itrocket.net/empower/staking/empowervaloper137apnrw5dlqfk6m3pz7ltazcdrat4mquckqzf9">
-    <img src="">
+    <img src="https://github.com/JoelryYOLO/JoelryYOLO/blob/main/empower.png">
   </a>
   <a href="https://genesis.mcnscan.io/chain/2jUm9j6aTwvw6hjUENHTAUWwzzcxbdfh92CxunMs7atFc4hU5Z">
     <img src="https://pbs.twimg.com/profile_images/1660629238372790273/zmyiq2yj_200x200.jpg">
