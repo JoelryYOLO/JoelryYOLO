@@ -8,25 +8,40 @@
 
 <h1 align=center>I'm Validator</h1>
 <div>
-  <a href="https://testnet.side.explorers.guru/validator/bcvaloper1yj5qt5du6e2cnl4d08snr3zu6gwe4gz5rksyqz">
-    <img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_200x200.jpg">  
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/fdba6041-328a-42bf-a0cb-ebe829f6edca">  
   </a>
-  <a href="https://scan.initia.tech/initiation-1/validators/initvaloper18xqgfh9f6xur5nayvrgtse75l2lwnusj3svfq2">
-    <img src="https://pbs.twimg.com/profile_images/1604751287618113536/ayyW6i94_200x200.jpg">
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/fe25c54e-9660-4287-8e43-81976c47fc93">  
   </a>
-  <a href="https://testnet.itrocket.net/empower/staking/empowervaloper137apnrw5dlqfk6m3pz7ltazcdrat4mquckqzf9">
-    <img src="https://github.com/JoelryYOLO/JoelryYOLO/blob/main/empower.png">
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/a6fc9c9b-6a81-4592-84e8-0c8003327850">  
   </a>
-  <a href="https://genesis.mcnscan.io/chain/2jUm9j6aTwvw6hjUENHTAUWwzzcxbdfh92CxunMs7atFc4hU5Z">
-    <img src="https://pbs.twimg.com/profile_images/1660629238372790273/zmyiq2yj_200x200.jpg">
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/5c6517f0-d2cb-4235-8063-ad47b9c728db">  
   </a>
-  <a href="https://explorer.nodestake.org/lava-testnet/staking/lava@valoper17njg8ppajfw5h8u4h9aucgp6fsgk8lhe2pyrd4">
-    <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_200x200.jpg">
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/34a958c8-d976-4d37-abb1-5520e88140b2">  
   </a>
-  <a href="https://testnet.nillion.explorers.guru/validator/nillionvaloper1ckdjqv9ul0y80nfznnc8hppcp68jqcxxppv0jm">
-    <img src="https://pbs.twimg.com/profile_images/1464770850293534720/AdOJJAHw_200x200.jpg">
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/21df3b4c-13fa-4e78-9ccb-15bce944125b">  
   </a>
-  <a href="https://testnet.itrocket.net/pryzm/staking/pryzmvaloper1m35x3yr7flg900uchh950303n9wll03x0pupn6">
-    <img src="https://pbs.twimg.com/profile_images/1711757188757168128/tASYFnV8_200x200.jpg">
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/6caacb65-3e84-4dc6-a2c1-1745a6d69867">  
+  </a>
+    <a href="">
+    <img src="https://github.com/user-attachments/assets/d878f9e5-8cf9-454c-9aed-f7c3a6212c74">  
+  </a>
+    <a href="">
+    <img src="https://github.com/user-attachments/assets/cfabe5a1-c9d9-43b0-9946-2f6d48760957">  
   </a>
 </div>
+
+
+
+
+
+
+
+
+
