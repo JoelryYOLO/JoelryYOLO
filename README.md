@@ -35,8 +35,11 @@
     <a href="">
     <img src="https://github.com/user-attachments/assets/cfabe5a1-c9d9-43b0-9946-2f6d48760957">  
   </a>
+    </a>
+    <a href="https://medium.com/@HeatherYolo/tangle-tools-validator-operators-api-521b8b6f8e06">
+    <img src="https://github.com/user-attachments/assets/fb2c0367-1de8-4d17-97fa-09472c16e32d">  
+  </a>
 </div>
-
 
 
 
